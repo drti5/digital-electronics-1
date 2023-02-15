@@ -1,5 +1,6 @@
 # Lab 2: Vojtech Drtina
 
+
 ### 2-bit comparator
 
 1. Karnaugh maps for other two functions of 2-bit comparator:
