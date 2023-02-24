@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Feb 22 13:50:29 2023
+# Process ID: 10580
+# Current directory: V:/digital-electronics-1/03-vivado/comparator/comparator.runs/synth_1
+# Command line: vivado.exe -log comparator_4bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source comparator_4bit.tcl
+# Log file: V:/digital-electronics-1/03-vivado/comparator/comparator.runs/synth_1/comparator_4bit.vds
+# Journal file: V:/digital-electronics-1/03-vivado/comparator/comparator.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source comparator_4bit.tcl -notrace
