@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Mar  2 16:34:26 2023
+# Process ID: 10576
+# Current directory: C:/Users/240605/Documents/digital-electronics-1/04-segment/display
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9880 C:\Users\240605\Documents\digital-electronics-1\04-segment\display\display.xpr
+# Log file: C:/Users/240605/Documents/digital-electronics-1/04-segment/display/vivado.log
+# Journal file: C:/Users/240605/Documents/digital-electronics-1/04-segment/display\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/240605/Documents/digital-electronics-1/04-segment/display/display.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/240605/Documents/digital-electronics-1/04-segment/display/display.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/appz/Xilinx/Vivado/2020.2/data/ip'.
