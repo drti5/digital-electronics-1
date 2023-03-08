@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Mar  8 13:45:59 2023
+# Process ID: 11416
+# Current directory: C:/Users/240605/Documents/digital-electronics-1/05-ffs/flip_flops/flip_flops.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/240605/Documents/digital-electronics-1/05-ffs/flip_flops/flip_flops.sim/sim_1/behav/xsim/xsim.dir/tb_ff_rst_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/240605/Documents/digital-electronics-1/05-ffs/flip_flops/flip_flops.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/240605/Documents/digital-electronics-1/05-ffs/flip_flops/flip_flops.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/240605/Documents/digital-electronics-1/05-ffs/flip_flops/flip_flops.sim/sim_1/behav/xsim/xsim.dir/tb_ff_rst_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/Users/240605/Documents/digital-electronics-1/05-ffs/flip_flops/flip_flops.sim/sim_1/behav/xsim/xsim.dir/tb_ff_rst_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Wed Mar  8 13:46:02 2023. For additional details about this file, please refer to the WebTalk help file at C:/appz/Xilinx/Vivado/2020.2/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Wed Mar  8 13:46:02 2023...
