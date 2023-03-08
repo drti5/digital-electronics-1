@@ -11,3 +11,7 @@
 #-----------------------------------------------------------
 start_gui
 open_project C:/Users/240605/Documents/digital-electronics-1/04-segment/display/display.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_top.tcl
+close_sim
