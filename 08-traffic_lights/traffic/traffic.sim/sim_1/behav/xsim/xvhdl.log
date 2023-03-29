@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/240605/Documents/digital-electronics-1/08-traffic_lights/traffic/traffic.srcs/sources_1/new/tlc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tlc'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/240605/Documents/digital-electronics-1/08-traffic_lights/traffic/traffic.srcs/sim_1/new/tb_tlc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_tlc'
