@@ -1,4 +1,4 @@
-# Lab 8: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
+# Lab 8: Vojtěch Drtina
 
 ### Traffic light controller
 
